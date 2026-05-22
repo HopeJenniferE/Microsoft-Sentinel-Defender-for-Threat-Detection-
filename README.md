@@ -44,6 +44,3 @@ Sysmon | KQL | Atomic Red Team | MITRE ATT&CK | NIST 800-61
 - Incident Response Report Following the NIST 800-61
 - Project process documentation via Substack and Personal Portfolio ( You should check that out)
 
-## Documentation
-- Incident Response Report (NIST 800-61)
-- Project Portfolio Document
