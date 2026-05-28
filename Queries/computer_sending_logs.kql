@@ -1,0 +1,2 @@
+SecurityEvent
+| summarize count() by Computer

@@ -1,0 +1,5 @@
+Event
+| where Source == "Microsoft-Windows-Sysmon"
+| where EventID == 13
+| where RenderedDescription contains "CurrentVersion\\Run"
+| project TimeGenerated, Computer, RenderedDescription

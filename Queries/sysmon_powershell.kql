@@ -1,0 +1,9 @@
+Event
+| where Source == "Microsoft-Windows-Sysmon"
+| where EventID == 1
+| where RenderedDescription contains "powershell"
+    and (RenderedDescription contains "-enc" 
+    or RenderedDescription contains "-nop"
+    or RenderedDescription contains "bypass"
+    or RenderedDescription contains "hidden")
+| project TimeGenerated, Computer, RenderedDescription
