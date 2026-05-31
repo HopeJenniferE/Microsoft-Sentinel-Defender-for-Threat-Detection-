@@ -43,6 +43,10 @@ Microsoft Azure | Microsoft Sentinel | Defender XDR |
 Sysmon | KQL | Atomic Red Team | MITRE ATT&CK | NIST 800-61
 
 ## Documentation
-[- Incident Response Report Following the NIST 800-61 :](https://github.com/HopeJenniferE/Microsoft-Sentinel-Defender-for-Threat-Detection-/blob/main/Security%20Incident%20Response%20Report%20for%20INC-5%20%26%20INC-11%20(Microsoft%20Sentinel)'.pdf)
-- Project process documentation via Substack and Personal Portfolio ( You should check that out)
+- [Incident Response Report Following the NIST 800-61 :](https://github.com/HopeJenniferE/Microsoft-Sentinel-Defender-for-Threat-Detection-/blob/main/Security%20Incident%20Response%20Report%20for%20INC-5%20%26%20INC-11%20(Microsoft%20Sentinel)'.pdf)
+- [Project process documentation via Substack and Personal Portfolio](https://open.substack.com/pub/jhope/p/from-empty-azure-subscription-to?r=710hj1&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
+
+
+
+
 
