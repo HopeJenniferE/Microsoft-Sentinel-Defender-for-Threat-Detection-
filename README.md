@@ -10,7 +10,7 @@ A fully functional SOC lab built on Microsoft Azure demonstrating end-to-end thr
 response, and threat hunting using Microsoft Sentinel, Microsoft Defender, Sysmon, KQL, and Atomic Red Team.
 
 ## Architecture
-!(Screenshots/SOC%20Architecture%20.png)
+![Arch](Screenshots/SOC%20Architecture.png)
 - 3 Azure VMs (Windows Server 2025 Datacenter x64, Windows 11 Pro, Ubuntu 22.04)
 - Microsoft Sentinel SIEM
 - Log Analytics Workspace
