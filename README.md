@@ -33,6 +33,7 @@ response, and threat hunting using Microsoft Sentinel, Microsoft Defender, Sysmo
 | Credential Dumping | T1003 | Mimikatz via ART |
 
 ## Results
+![Results](Screenshots/11%20Incident-Queue.png)
 - 11 high-severity incidents generated
 - End-to-end detection validated in under 30 minutes
 - Full incident response documented using NIST 800-61
